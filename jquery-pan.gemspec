@@ -6,5 +6,6 @@ Gem::Specification.new do |s|
   s.email       = 'richard@dogma.co.uk'
   s.summary     = 'jQuery Pan'
   s.description = 'Add panning to HTML elements'
+  s.files = ["vendor/assets/javascripts/jquery.pan.js"]
   
 end
